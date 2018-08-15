@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Calendar/bin
+/Calendar/obj/Debug
+/Calendar.Tests/obj/Debug
+/packages
+/.vs
+/Calendar.Tests/bin/Debug
+/Calendar/obj/Release
+/Calendar.Tests/obj/Release
